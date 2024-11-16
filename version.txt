@@ -1,5 +1,9 @@
 VersionAIO
 
+------------------------------------------
+- v2024.3 - 16/11/2024
+    -- Fix UID profile to ID Post
+------------------------------------------
 - v2024.1 - 15/11/2024
     -- Có chức năng Reactions - Cookie, Follow - Token, Comments - Token, Shareảo/thật - Token, GetToken Full Quyền, Get Token Page, UID profile to ID Post
 VersionAIO
