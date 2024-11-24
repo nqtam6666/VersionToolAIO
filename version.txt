@@ -1,6 +1,9 @@
 VersionAIO
 
 ------------------------------------------
+- v2024.11 - 24/11/2024
+    -- Update Get Token From Cookie đa luồng.
+------------------------------------------
 - v2024.9 - 19/11/2024
     -- Update Reactions Token, Remove Reactions Cookie
 ------------------------------------------
